@@ -1,3 +1,9 @@
 .list {
   list-style-type: none;
 }
+h3 {
+  color: aliceblue;
+  padding: 1em;
+  text-align: center;
+  border-bottom: aqua 2px solid;
+}

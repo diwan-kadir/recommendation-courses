@@ -4,7 +4,10 @@ import classes from "./List.module.css";
 function List(props) {
   return (
     <Layout>
-      <ul className={classes.list}>{props.children}</ul>
+      <ul className={classes.list}>
+        <h3>{props.title}</h3>
+        {props.children}
+      </ul>
     </Layout>
   );
 }
