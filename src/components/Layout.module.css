@@ -1,0 +1,11 @@
+.listbox {
+  float: left;
+  margin-left: 4%;
+  width: 42%;
+  margin-right: 2%;
+  backdrop-filter: blur(15px);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  /* width: fit-content; */
+  height: fit-content;
+}

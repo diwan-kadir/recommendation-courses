@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap");
+
+.listitem {
+  color: rgb(20, 2, 2);
+  font-size: 1.5rem;
+  border-bottom: 1px solid rgba(93, 179, 250, 0.411);
+  font-family: "ZCOOL KuaiLe", cursive;
+}

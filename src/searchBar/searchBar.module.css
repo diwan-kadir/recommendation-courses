@@ -1,0 +1,16 @@
+.white {
+  color: rgb(255, 228, 230);
+  margin: auto;
+  backdrop-filter: blur(15px);
+  margin-top: 5%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  width: fit-content;
+  height: fit-content;
+}
+.searchBar {
+  width: 60vw !important;
+}
+.white button {
+  color: whitesmoke;
+}
